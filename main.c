@@ -1,23 +1,3 @@
-/*
-A)  Vetor com 40 posições, andar de 4 em 4.
-    Inserir números da solução 1 a 1. 
-
-B)  Funcao que sorteia 4 cores dentro das 6 discponiveis( blue B, green G, red R, yellow Y, white W, orange O).
-
-C)  Funcao para ler a combinação inserida e funcao para validar  a  inserção.
-    Caso esta sequência não seja válida, o programa irá solicitar ao utilizador uma nova combinação.
-
-D)  Após cada jogada será impresso na consola o estado do atual tabuleiro.
-
-E)  Usar funcao de ler a combinaçao para validar o número de cores corretas numa posição certa, e o número de cores corretas nas posições erradas. 
-
-F)  Funcao fim de jogo. |*
-
-G)  Funcao de pontos (ver pdf projeto). |*
-
-H/I)Para a funcao fim de jogo (ver pdf projeto). |*
-*/
-
 #include "main.h"
 
 int count_jogada = 0;
